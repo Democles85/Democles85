@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I have a strong passion for software development. I take great pleasure in highlighting my skills and projects on GitHub. From web development to data analysis, I take delight in delving into various programming domains.<br><br>I have a strong commitment to writing clean code and implementing efficient algorithms. Collaboration and problem-solving are essential elements of my development style. I strongly value continuous learning and improvement and actively contribute to the open-source community. I am genuinely enthusiastic about sharing my knowledge and expertise with fellow developers.<br><br>Please, feel free to visit my GitHub profile and explore the projects I have worked on!</p>
+<p align="left">I have a strong passion for software development. <br>Please, feel free to visit my GitHub profile and explore the projects I have worked on!</p>
 
 ###
 
