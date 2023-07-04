@@ -114,7 +114,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Democles85/Democles85/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Democles85/Democles85/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
