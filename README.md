@@ -86,10 +86,6 @@
 
 ###
 
-<img align="right" height="300" src="https://media.tenor.com/3gHU9z-qIqgAAAAC/a-plague-tale-requiem-amicia.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/channel/UCrjxpNwAE08SBvFyGI6dxvw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -126,6 +122,14 @@
   <a href="https://open.spotify.com/user/ns4hde7r0lhcelardytbfbnyo">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://media.tenor.com/3gHU9z-qIqgAAAAC/a-plague-tale-requiem-amicia.gif"  />
 </div>
 
 ###
