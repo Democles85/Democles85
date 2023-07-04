@@ -86,12 +86,11 @@
 
 ###
 
-<br clear="both">
+<!-- 
+<br clear="both"> 
 
-<!-- <img src="https://raw.githubusercontent.com/Democles85/Democles85/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/Democles85/Democles85/output/snake.svg" alt="Snake animation" /> 
 
-###
-<!--
 <br clear="both">
 <div align="center">
   <img height="300" src="https://media.tenor.com/3gHU9z-qIqgAAAAC/a-plague-tale-requiem-amicia.gif"  />
