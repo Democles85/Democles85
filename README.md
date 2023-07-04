@@ -92,11 +92,13 @@
 
 ###
 
-<br clear="both">
 
+<!--
+<br clear="both">
 <div align="center">
   <img height="300" src="https://media.tenor.com/3gHU9z-qIqgAAAAC/a-plague-tale-requiem-amicia.gif"  />
 </div>
+-->
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=ns4hde7r0lhcelardytbfbnyo&unique=true&width=600" alt="Spotify Recently Played" />
