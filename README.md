@@ -125,7 +125,7 @@
 </div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true&width=300" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ns4hde7r0lhcelardytbfbnyo&unique=true&width=600" alt="Spotify Recently Played" />
 </div>
 
 ###
