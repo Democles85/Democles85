@@ -124,4 +124,8 @@
   <img height="300" src="https://media.tenor.com/3gHU9z-qIqgAAAAC/a-plague-tale-requiem-amicia.gif"  />
 </div>
 
+<div align="center">
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true&width=300)
+</div>
+
 ###
